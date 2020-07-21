@@ -13,3 +13,6 @@ Designing Identitiy Management
 | features          | Free          | Office 365 Apps | Premium P1 | Premium P2|
 | ----------------- |:-------------:| :--------------:| :---------:| ---------:|
 | Directory Objects | 500000        | No Limit        | No Limit   | No Limit  |
+| Company Branding  | No            | Yes             | Yes        | Yes       |
+| Self-service password reset for cloud users | 500000        | No Limit        | No Limit   | No Limit  |
+| Directory Objects | 500000        | No Limit        | No Limit   | No Limit  |
