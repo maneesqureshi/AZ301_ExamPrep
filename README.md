@@ -15,4 +15,11 @@ Designing Identitiy Management
 | Directory Objects | 500000        | No Limit        | No Limit   | No Limit  |
 | Company Branding  | No            | Yes             | Yes        | Yes       |
 | Self-service password reset for cloud users | 500000        | No Limit        | No Limit   | No Limit  |
-| Directory Objects | 500000        | No Limit        | No Limit   | No Limit  |
+| Service Level Agreement (SLA) | No        | Yes        | Yes   | Yes  |
+| Device objects two-way synchronisation between on-premises directories and Azure AD (Device write-back) | No        | Yes        | Yes   | Yes  |
+| Vulnerabilities and risky accounts detection | No        | No        | No   | Yes  |
+| Risk events investigation | No        | No        | No   | Yes  |
+| Risk based Conditional Access policies | No        | No        | No   | Yes  |
+| Privileged Identity Management (PIM) 	 | No        | No        | No   | Yes  |
+| Access Reviews 	 | No        | No        | No   | Yes  |
+| Entitlement Management 	 | No        | No        | No   | Yes  |
