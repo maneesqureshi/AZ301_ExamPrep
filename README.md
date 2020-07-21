@@ -5,9 +5,29 @@ Prep Notes for AZ301 Exam
 - Created Repository for AZ-301: Microsoft Azure Architect Design Exam Prep
 
 Topic:
+
 ##Determine Workload Requirements (10-15%)
-##Gather Information and requirements
+
+###Gather Information and requirements
+
+https://docs.microsoft.com/en-us/azure/architecture/
+
 - identify compliance requirements
+https://docs.microsoft.com/en-in/azure/compliance/ 
+
+https://www.microsoft.com/en-in/trust-center/compliance/compliance-overview
+
+https://azure.microsoft.com/en-in/overview/trusted-cloud/compliance/
+
+Read the white paper (Available in the Repo)
+Read the Azure Security, Privacy, Compliance docs (Attached in the repo)
+
+
+Audit Reports
+https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide
+
+Regulatory Deep Dive for India
+https://www.microsoft.com/en-sg/apac/trustedcloud/india.aspx
 
 - identify identity and access management infrastructure
 - identify service-oriented architectures
@@ -25,7 +45,7 @@ Topic:
 - create testing scenarios
 
 ##Optimize Consumption Strategy
-##Design an Auditing and Monitoring Strategy
+###Design an Auditing and Monitoring Strategy
 - optimize app service costs
 - optimize compute costs
 - optimize identity costs
