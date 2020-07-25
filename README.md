@@ -1,3 +1,6 @@
+# Tips on Azure Free account creation
+https://maqdevopsandmore.wordpress.com/2020/07/26/things-to-do-before-and-after-signing-up-for-azure-free-account/
+
 # AZ301_ExamPrep
 Prep Notes for AZ301 Exam
 
