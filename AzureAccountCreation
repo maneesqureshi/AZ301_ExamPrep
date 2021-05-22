@@ -1,0 +1,15 @@
+Before signing up for Azure Account
+
+You’ll need to create a Microsoft account. You can sign up https://account.microsoft.com/account
+Ensure you enable Multifactor Authentication for better security
+To create a free Azure Account refer steps mentioned https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/3-exercise-create-an-azure-account
+
+After signing up for Azure Account
+
+Click on the Cog/Gear symbol to view & change the Portal settings as per your preference
+Navigate to Resource group or type “Resource group” in the search bar in the Azure Portal
+Create a Resource Group, it will help organize all the resources that you’ll create in it. Also tag it for better organization & billing visibility
+Navigate to Storage account or type “Storage account” in the search bar in the Azure Portal
+Create a Storage account in the resource group that you created, chose region closest to you or the default location. Also tag it for better organization & billing visibility. This Storage account creation may take a while
+On successful completion or failure, you should be able to see the details in activity log or bell icon
+Enable the cloud shell & use the storage account that you created. This will allow you to run interact with Azure Portal using PowerShell/Bash
